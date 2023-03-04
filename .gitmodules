@@ -1,4 +1,4 @@
 [submodule "dynarmic"]
 	path = src/dynarmic
 	url = https://github.com/merryhime/dynarmic
-    branch = master
+	branch = master
